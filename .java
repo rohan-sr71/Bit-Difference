@@ -34,7 +34,7 @@ class Rohan
 		        }
 		        
 		    }
-		    System.out.println(str1+" "+str2);
+		    System.out.println(str1+"  "+str2);
 		    for(int i=0;i<str1.length();i++)
 		    {
 		        if(str1.charAt(i)==(str2.charAt(i)))
